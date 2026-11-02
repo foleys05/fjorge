@@ -1,10 +1,10 @@
 {
-  "name": "FJORGE \u2014 Strength & Activity",
+  "name": "FJORGE \u2014 Strength / Tracked",
   "short_name": "FJORGE",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#0b1010",
+  "background_color": "#101713",
   "theme_color": "#101713",
   "icons": [
     {
